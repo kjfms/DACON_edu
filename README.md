@@ -5,8 +5,8 @@
 * 평가 지표 : RMSE 
 * 제공 데이터 : 2017년 4월 1일 ~ 5월 31일 시간별 서울시 따릉이 대여수와 기상상황 
  >(1) train.csv : 서울시 마포구의 날짜별, 시간별 기상상황과 따릉이 대여 수 (기간: 2017년 4월, 5월) 
- >(2) test.csv : count 외에는 train 데이터와 동일 
- >(3) submission.csv : submission 파일의 예시
+ >>(2) test.csv : count 외에는 train 데이터와 동일 
+ >>>(3) submission.csv : submission 파일의 예시
 
 * * * 
 최종 제출 : 2021-09-07
